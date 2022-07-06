@@ -1,0 +1,13 @@
+name: BoardcastNewline
+main: me.haer0248.Main
+version: 1.0.0
+author: NekomataOnigiri
+description: None.
+commands:
+  bcn:
+    description: Boardcast.
+
+permission:
+  bcn.use:
+    description: Use boardcase.
+    default: op
